@@ -18,6 +18,7 @@ public final class R {
     }
     public static final class id {
         public static final int calling_ripple_view=0x7f070000;
+        public static final int edt_phonenumber=0x7f070001;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
